@@ -1,5 +1,13 @@
 # Installation
 
-```npx degit https://github.com/TRIPTYK-ACADEMY/tpk-tailwind-base.git .```
-```npm install```
-```npm run dev```
+```bash
+  npx degit https://github.com/TRIPTYK-ACADEMY/tpk-tailwind-base.git .
+```
+
+```bash
+  npm install
+```
+
+```bash
+  npm run dev
+```
