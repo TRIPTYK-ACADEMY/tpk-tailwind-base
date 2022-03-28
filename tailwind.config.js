@@ -1,6 +1,6 @@
 module.exports = {
   mode: 'jit',
-  content: ['./*.html'],
+  content: ['./*.html', './assets/js/*.js],
   darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {},
